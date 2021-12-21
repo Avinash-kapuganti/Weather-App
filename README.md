@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Click here to check out my react project else try it yourself on codesandbox. 
+<h3>Click here to check out my react project else try it yourself on codesandbox.</h3> 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
