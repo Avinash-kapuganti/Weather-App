@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Click [here](https://ipz3y.csb.app/) to check out my react project else try it yourself on [codesandbox](https://codesandbox.io/s/lucid-wildflower-ipz3y?file=/src/App.js).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
